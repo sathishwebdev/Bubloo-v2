@@ -1,0 +1,35 @@
+.card{ 
+    background-color: rgb(0, 0, 0);
+   border-radius: 15px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+   color: whitesmoke;
+}
+.logo{
+    height: 50px;
+  float: left;
+}
+.container{
+   color:white;
+   border:1px solid;
+   border-color: black;
+}
+.navbar-dark{
+   background-color:rgb(0, 0, 0);
+}
+.jumbotron {
+   
+  background-color: rgb(240, 240, 240);
+   border-radius: 15px;
+   
+   font-size:1em;
+   margin : 2% ;
+   color: rgb(0, 0, 0);
+
+
+}
+
+.nav{
+   color: whitesmoke;
+}
+
